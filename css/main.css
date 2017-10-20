@@ -129,32 +129,32 @@
 		     left: 0;
 		     background: #ee3e64;
 	 }
-	 #box_2_h{
-		 position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 80%;
-    background: #b7d84b;
-	 }
-	 #box_1.exampleH2{
-		 position: relative;
-	 }
-	 #box_2.exampleH2{
-		 position: absolute;
-		 	left: 100px;
-	 }
-	 #box_1.exampleH3{
-		position: relative;
-	}
-	#box_2.exampleH3{
-		position: absolute;
-		top: 0;
-		left: 100px;
-	}
-	#box_1_i, #box_2_i {
-		 width: 900px; margin: 0 auto;
-	 }
+		 #box_2_h{
+			 position: absolute;
+			    top: 0;
+			    right: 0;
+			    bottom: 0;
+			    left: 80%;
+			    background: #b7d84b;
+		 }
+		 #box_1.exampleH2{
+			 position: relative;
+		 }
+		 #box_2.exampleH2{
+			 position: absolute;
+				left: 100px;
+		 }
+		 #box_1.exampleH3{
+			position: relative;
+		}
+		#box_2.exampleH3{
+			position: absolute;
+			top: 0;
+			left: 100px;
+		}
+		#box_1_i, #box_2_i {
+			 width: 900px; margin: 0 auto;
+		 }
 		#box_2_i{
 			 position: fixed;
 			 bottom: 0;
@@ -163,9 +163,9 @@
 			 background: #f95b34;
 			 padding: 10px 0;
 		 }
-#container {
+		#container {
 			width: 900px;
-			margin: 0 auto;
+			margin: 0 ;
 		}
 		#content {
 			position: relative;
